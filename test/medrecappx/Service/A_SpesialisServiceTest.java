@@ -70,7 +70,7 @@ public class A_SpesialisServiceTest {
         System.out.println("1. serviceInsertSpesialis");
 
         ExpIdSpesialis = "Sp.Mt";
-        ExpNmSpesialis = "Spesialis empat mata";
+        ExpNmSpesialis = "Spesialis mata hati";
         ExpTarifKonsul = 70000;
         
         sp.setIdSpesialis(ExpIdSpesialis);
